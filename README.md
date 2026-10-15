@@ -2,6 +2,8 @@
 
 An Arduino-based team prototype combining timed feeding, environmental monitoring, a water-level alert and a presence-responsive display in a modular cardboard enclosure.
 
+**Firmware:** Written in C by Siyuan Lin for the Arduino-based prototype.
+
 ![Smart cat house prototype](assets/cat_house_prototype.jpg)
 
 ## Project demonstration
